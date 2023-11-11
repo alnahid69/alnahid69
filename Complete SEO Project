@@ -1,0 +1,24 @@
+/seo-project
+  ├── /src
+  │   ├── index.html
+  │   ├── styles.css
+  │   ├── script.js
+  │   └── ...
+  ├── /tools
+  │   ├── /analysis-scripts
+  │   │   ├── keyword_analysis.py
+  │   │   └── backlink_analysis.py
+  │   ├── /optimization-tools
+  │   │   ├── image_optimizer.py
+  │   │   └── ...
+  │   └── ...
+  ├── /docs
+  │   ├── README.md
+  │   ├── SEO_Checklist.md
+  │   └── ...
+  ├── /reports
+  │   ├── audit_report.md
+  │   └── performance_report.md
+  ├── .gitignore
+  ├── LICENSE
+  └── ...
