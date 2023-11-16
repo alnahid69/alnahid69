@@ -16,6 +16,7 @@
 
 ### 🌐 Connect with Me
 - [Instagram](https://www.instagram.com/weboptimizer2.0/)
+- [Facebook](https://www.facebook.com/profile.php?id=100092449505874)
 
 Let's collaborate and elevate your online presence together! Feel free to reach out for SEO consultations and digital marketing insights.
 
